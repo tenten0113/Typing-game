@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\Mystopwatch"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "MyTypinggame"
+	}
+}

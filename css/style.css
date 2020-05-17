@@ -1,0 +1,22 @@
+html{
+  font-size: 62.5%;
+}
+body{
+  padding-top: 4rem;
+  font-family: 'Courier New',monospace;
+  text-align: center;
+}
+
+*{
+  padding: 0;
+  margin:0;
+}
+
+#target{
+  font-size: 4.8rem;
+  letter-spacing: 3px;
+}
+
+.info{
+  color: #ccc;
+}
